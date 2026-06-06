@@ -1,0 +1,6 @@
+{
+  "name": "AhmedOS GiveAway",
+  "description": "تطبيق متكامل لجمع النقاط والمنافسة للفوز بجوائز ومنتجات AhmedOS المتميزة مثل لابتوب AhmedOS وموبايل AhmedOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
